@@ -33,5 +33,6 @@
 
 ### Contacts
 
+*github*: [github.com/deminds](https://github.com/deminds)  
 *telegram:* [@deminds](https://t.me/deminds)  
 *email:* [demin.ds@mail.ru](mailto:demin.ds@mail.ru)
